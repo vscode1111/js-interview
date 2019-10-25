@@ -1,0 +1,12 @@
+# node modules
+node_modules
+
+# ignore transpiled files
+packages/*/lib
+packages/scripts/tsconfig.json
+
+lerna-debug.log
+.DS_Store
+
+dist
+.idea
